@@ -1,0 +1,6 @@
+{
+  "name": "FILEFLOW",
+  "description": "High-performance file conversion and compression platform for images and PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
